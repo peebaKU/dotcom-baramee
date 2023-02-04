@@ -1,20 +1,12 @@
 # DotCom Cafe
 
-Section1 | Section2 | Section3 | ...
- 
-**TODO**: แก้เนื้อหาตรง "Section1 | Section2 ..." ให้เป็น hyperlinks ที่พาไปยังแต่ละส่วนของเมนูโดยมีแค่ **บรรทัดเดียว**   
-**TODO**: และอย่าลืมที่จะลบ TODO lines ทั้งหมดออกด้วย  
 
-นี้คือตัวอย่างของวิธีการที่ใส่ hyperlinks เพื่อไปในแต่ละส่วน(Heading)ที่เราต้องการ  
+[Breakfast](Menu.md#Breakfast) | [Lunch](Menu.md#lunch)| [Night Food](Menu.md#Night-Food) | [Beverages](Menu.md/#Beverages) |[Dinner](Menu.md/#Dinner) | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
-## Drive-Thru
- 
-**TODO**: ใส่เมนูที่ต้องการไว้ในส่วนนี้ โดยในแต่ละหมวดหมู่ใส่เป็น **ตาราง** ซึ่งในแต่ละหมวดหมู่ของอาหารมีตารางเป็นของตัวเองแยกจากกัน  
-**TODD**: ตัดสินใจกันในกลุ่มของตัวเองว่าจะเลือก หัวข้อในแต่ละคอลัมน์เป็นอะไร และจะโชว์ราคาในแต่ละเมนูยังไง โดยที่เมนูในแต่ละหมวดหมู่จะต้องสอดคล้องกัน  
 
-นี้คือวิธีตัวอย่างของการใส่ข้อมูลในรูปแบบของตารางโดยใช้ Markdown  
+## Drive-Thru
 
 | Column 1                 | Column 2 |
 |:-------------------------|----------|
@@ -22,13 +14,22 @@ Section1 | Section2 | Section3 | ...
 | Gasohol E20              | 35       |
 | Gasohol E85              | 32       |
 
-ถ้าอยากรู้วิธีการทำเป็นตารางเพิ่มเติม เช่น `|:---` และ `---:|` คืออะไรแล้วใช้ยังไง สามารถดูข้อมูลเพิ่มเติมได้ที่ [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)   
 
 ## About Us
-  
-**TODO**: ให้แต่ละคนใส่ชื่อของตัวเองเข้าไปในตาราง **ห้าม** ให้ใครคนใดคนหนึ่งใส่ชื่อของทุกคน หรือใส่ชื่อของคนอื่นแทน (Role คือหมวดหมู่อาหารที่ตัวเองเป็นคนรับผิดชอบ)
+
+
+
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+
 | BARAMEE PANYAFUAEN | Breakfast | @peebaKU |
+| Thanida Chaiwongnon | Fruit | @thanidacwn |
+| Napasakorn Boonkerd | Snack | [@Savetang19](https://github.com/Savetang19) |
+| Praewa Honda| Night Food | [@Kyouketsuki](https://github.com/Kyouketsuki) |
+| Khongnat Baibua | Dinner | [@KhongnatBaibua](https://github.com/KhongnatBaibua) |
+| Chalisa Sakulwichitsinthu | Beverages | [@mickymoucs](https://github.com/mickymoucs) |
+| Mahasachan Sathapornwaint | Lunch | [@mahasachan](https://github.com/mahasachan) |
+
+
 
