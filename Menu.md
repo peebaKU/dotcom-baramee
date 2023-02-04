@@ -3,16 +3,16 @@
 
 ## Breakfast
 
-| Item | Price |
+| Menu | Price |
 | --- | --- |
-| Boiled Rice  | -10 |
-| Dim sum  | -10 |
-| Khanom krok  | -10 |
-| Khao tom  | -10 |
-| Jok  | -10 |
-| Tom luad moo  | -10 |
-| Dim sum  | -10 |
-| Roti canai | -10 |
+| Boiled Rice  | - 30 |
+| Dim sum  | - 30 |
+| Khanom krok  | - 30 |
+| Khao tom  | - 30 |
+| Jok  | - 30 |
+| Tom luad moo  | - 30 |
+| Dim sum  | - 30 |
+| Roti canai | - 30 |
 
 
 ## Lunch 
