@@ -77,7 +77,7 @@
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | BARAMEE PANYAFUAEN | Breakfast | [@peebaKU](https://github.com/peebaKU) |
-| Thanida Chaiwongnon | Fruit | [@thanidacwn[(https://github.com/thanidacwn) |
+| Thanida Chaiwongnon | Fruit | [@thanidacwn](https://github.com/thanidacwn) |
 | Napasakorn Boonkerd | Snack | [@Savetang19](https://github.com/Savetang19) |
 | Praewa Honda| Night Food | [@Kyouketsuki](https://github.com/Kyouketsuki) |
 | Khongnat Baibua | Dinner | [@KhongnatBaibua](https://github.com/KhongnatBaibua) |
