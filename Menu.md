@@ -6,6 +6,16 @@
 | Item | Price |
 | --- | --- |
 | Fried Grasshoppers (terrible) | -10 |
+| Fried Grasshoppers (terrible) | -10 |
+| Fried Grasshoppers (terrible) | -10 |
+| Fried Grasshoppers (terrible) | -10 |
+| Fried Grasshoppers (terrible) | -10 |
+| Fried Grasshoppers (terrible) | -10 |
+| Fried Grasshoppers (terrible) | -10 |
+| Fried Grasshoppers (terrible) | -10 |
+| Fried Grasshoppers (terrible) | -10 |
+| Fried Grasshoppers (terrible) | -10 |
+
 
 ## Lunch 
     
