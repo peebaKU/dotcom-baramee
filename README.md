@@ -30,5 +30,5 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| BARAMEE PANYAFUAEn | Breakfast | @peebaKU |
+| BARAMEE PANYAFUAEN | Breakfast | @peebaKU |
 
