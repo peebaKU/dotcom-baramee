@@ -1,6 +1,10 @@
 # DotCom Cafe
 
-Section1 | Section2 | [Dinner](Menu.md/#Dinner) | ...
+
+Section1 | [Dinner](Menu.md/#Dinner) | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
+
+[Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
+
 
 ## Drive-Thru
 
@@ -10,13 +14,18 @@ Section1 | Section2 | [Dinner](Menu.md/#Dinner) | ...
 | Gasohol E20              | 35       |
 | Gasohol E85              | 32       |
 
-ถ้าอยากรู้วิธีการทำเป็นตารางเพิ่มเติม เช่น `|:---` และ `---:|` คืออะไรแล้วใช้ยังไง สามารถดูข้อมูลเพิ่มเติมได้ที่ [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)   
 
 ## About Us
-  
-**TODO**: ให้แต่ละคนใส่ชื่อของตัวเองเข้าไปในตาราง **ห้าม** ให้ใครคนใดคนหนึ่งใส่ชื่อของทุกคน หรือใส่ชื่อของคนอื่นแทน (Role คือหมวดหมู่อาหารที่ตัวเองเป็นคนรับผิดชอบ)
 
-| Name            | Role   | Github                                               |
-|:----------------|--------|------------------------------------------------------|
+
+
+
+| Name      | Role      | Github          |
+|:----------|-----------|-----------------|
+| Thanida Chaiwongnon | Fruit | @thanidacwn |
+| Napasakorn Boonkerd | Snack | [@Savetang19](https://github.com/Savetang19) |
+| Praewa Honda| Night Food | [@Kyouketsuki](https://github.com/Kyouketsuki) |
 | Khongnat Baibua | Dinner | [@KhongnatBaibua](https://github.com/KhongnatBaibua) |
+
+
 
