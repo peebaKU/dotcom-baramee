@@ -18,6 +18,13 @@
 
 ## Beverages
 
+## Snack
+|Item|Price|
+|:---|---|
+|Lays: nori seaweed|30|
+|Oreo| 10|
+|Lays: ตะวัน| 20|
+
 
 
 ---
