@@ -27,6 +27,7 @@ Section1 | [Beverages](Menu.md/#Beverages) |[Dinner](Menu.md/#Dinner) | [Fruit](
 | Praewa Honda| Night Food | [@Kyouketsuki](https://github.com/Kyouketsuki) |
 | Khongnat Baibua | Dinner | [@KhongnatBaibua](https://github.com/KhongnatBaibua) |
 | Chalisa Sakulwichitsinthu | Beverages | [@mickymoucs](https://github.com/mickymoucs) |
+| Mahasachan Sathapornwaint | Lunch | [@mahasachan](https://github.com/mahasachan) |
 
 
 
