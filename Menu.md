@@ -3,18 +3,21 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+
+
 
 ## Lunch 
-
+    
 
 ## Dinner
 
 
 ## Night Food
-
+| Menu| Price |
+|  :---:         |   :---    | 
+| Popcorn | 80 | 
+| Cheese and Crackers | 100 |
+| Yoghurt | 40 |
 
 ## Beverages
 
@@ -25,6 +28,14 @@
 |Oreo| 10|
 |Lays: ตะวัน| 20|
 
+
+## Fruit
+
+| Item                | Price |
+|:-------------------------|----------|
+| Apple               | 10.00    |
+| Banana             | 5.00       |
+| Watermalon              | 17.00       |
 
 
 ---

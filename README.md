@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-Section1 | Section2 | Section3 | [Snack](Menu.md#snack)
+Section1 | Section2 | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
@@ -17,5 +17,7 @@ Section1 | Section2 | Section3 | [Snack](Menu.md#snack)
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Thanida Chaiwongnon | Fruit | @thanidacwn |
 | Napasakorn Boonkerd | Snack | [@Savetang19](https://github.com/Savetang19) |
+
 
