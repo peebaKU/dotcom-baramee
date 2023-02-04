@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-Section1 | Section2 | [Dinner](Menu.md) | ...
+Section1 | Section2 | [Dinner](Menu.md/#Dinner) | ...
 
 ## Drive-Thru
 
