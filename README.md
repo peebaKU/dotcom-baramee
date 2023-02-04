@@ -1,12 +1,11 @@
 # DotCom Cafe
 
-Section1 | Section2 | Section3 | [Fruit](#Fruit)
+[Fruit](#Fruit)
 
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
 ## Drive-Thru
-
 
 | Column 1                 | Column 2 |
 |:-------------------------|----------|
