@@ -3,15 +3,16 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
-    #baramee
+    
 
 ## Dinner
-
+| List             | Price |
+|------------------|----|
+| Tenderloin steak | 800 |
+| Beef wellington  | 1000 |
+| Spaghetti | 300 |
 
 ## Night Food
 
