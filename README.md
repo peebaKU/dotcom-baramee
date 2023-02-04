@@ -16,7 +16,7 @@ Section1 | Section2 | [Dinner](Menu.md) | ...
   
 **TODO**: ให้แต่ละคนใส่ชื่อของตัวเองเข้าไปในตาราง **ห้าม** ให้ใครคนใดคนหนึ่งใส่ชื่อของทุกคน หรือใส่ชื่อของคนอื่นแทน (Role คือหมวดหมู่อาหารที่ตัวเองเป็นคนรับผิดชอบ)
 
-| Name            | Role   | Github          |
-|:----------------|--------|-----------------|
-| Khongnat Baibua | Dinner | KhongnatBaibua |
+| Name            | Role   | Github                                               |
+|:----------------|--------|------------------------------------------------------|
+| Khongnat Baibua | Dinner | [@KhongnatBaibua](https://github.com/KhongnatBaibua) |
 
