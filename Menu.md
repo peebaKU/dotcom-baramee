@@ -13,7 +13,11 @@
 
 
 ## Night Food
-
+| Menu| Price |
+|  :---:         |   :---    | 
+| Popcorn | 80 | 
+| Cheese and Crackers | 100 |
+| Yoghurt | 40 |
 
 ## Beverages
 
