@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[Fruit](#Fruit)
+[Fruit](Menu.md#Fruit)
 
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
