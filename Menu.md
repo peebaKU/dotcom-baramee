@@ -3,10 +3,10 @@
 
 ## Breakfast
 
-
 | Item | Price |
 | --- | --- |
 | Fried Grasshoppers (terrible) | -10 |
+
 ## Lunch 
     
 
