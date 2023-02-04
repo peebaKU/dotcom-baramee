@@ -18,6 +18,14 @@
 ## Beverages
 
 
+## Fruit
+
+| Item                | Price |
+|:-------------------------|----------|
+| Apple               | 10.00    |
+| Banana             | 5.00       |
+| Watermalon              | 17.00       |
+
 
 ---
 
