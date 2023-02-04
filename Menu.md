@@ -5,7 +5,6 @@
 
 
 
-
 ## Lunch 
 
  | Lunch | Price | 
@@ -18,7 +17,11 @@
 | Fried chicken | 125.00 |  
 
 ## Dinner
-
+| List             | Price |
+|------------------|----|
+| Tenderloin steak | 800 |
+| Beef wellington  | 1000 |
+| Spaghetti | 300 |
 
 ## Night Food
 | Menu| Price |

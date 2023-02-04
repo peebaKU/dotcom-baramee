@@ -1,8 +1,10 @@
 # DotCom Cafe
 
-Section1 | [Lunch](Menu.md#Lunch) | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
+
+[Dinner](Menu.md/#Dinner) | [Lunch](Menu.md#Lunch) | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
+
 
 ## Drive-Thru
 
@@ -15,9 +17,15 @@ Section1 | [Lunch](Menu.md#Lunch) | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#sna
 
 ## About Us
 
+
+
+
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Thanida Chaiwongnon | Fruit | @thanidacwn |
 | Napasakorn Boonkerd | Snack | [@Savetang19](https://github.com/Savetang19) |
+| Praewa Honda| Night Food | [@Kyouketsuki](https://github.com/Kyouketsuki) |
+| Khongnat Baibua | Dinner | [@KhongnatBaibua](https://github.com/KhongnatBaibua) |
+
 
 
