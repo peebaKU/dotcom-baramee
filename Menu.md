@@ -6,7 +6,15 @@
 
 
 ## Lunch 
-    
+
+ | Lunch | Price | 
+| --- | --- |
+| Spaghetti | 100.00 |
+| Barbecue| 150.00 |
+| noodle | 80.00 |
+| salmon steak | 150.00 |
+| French fries | 80.00 |
+| Fried chicken | 125.00 |  
 
 ## Dinner
 | List             | Price |
