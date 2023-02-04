@@ -1,7 +1,7 @@
 # DotCom Cafe
 
 
-[Lunch](Menu.md#lunch)| [Night Food](Menu.md#Night-Food) | [Beverages](Menu.md/#Beverages) |[Dinner](Menu.md/#Dinner) | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
+[Breakfast](Menu.md#Breakfast) | [Lunch](Menu.md#lunch)| [Night Food](Menu.md#Night-Food) | [Beverages](Menu.md/#Beverages) |[Dinner](Menu.md/#Dinner) | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
@@ -22,6 +22,8 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+
+| BARAMEE PANYAFUAEN | Breakfast | @peebaKU |
 | Thanida Chaiwongnon | Fruit | @thanidacwn |
 | Napasakorn Boonkerd | Snack | [@Savetang19](https://github.com/Savetang19) |
 | Praewa Honda| Night Food | [@Kyouketsuki](https://github.com/Kyouketsuki) |
