@@ -1,7 +1,7 @@
 # DotCom Cafe
 
 
-Section1 | [Dinner](Menu.md/#Dinner) | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
+Section1 | [Beverages](Menu.md/#Beverages) |[Dinner](Menu.md/#Dinner) | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
