@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-Section1 | Section2 | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
+Section1 | [Lunch](Menu.md#Lunch) | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
