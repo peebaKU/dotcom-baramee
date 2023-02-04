@@ -5,16 +5,14 @@
 
 | Item | Price |
 | --- | --- |
-| Fried Grasshoppers (terrible) | -10 |
-| Fried Grasshoppers (terrible) | -10 |
-| Fried Grasshoppers (terrible) | -10 |
-| Fried Grasshoppers (terrible) | -10 |
-| Fried Grasshoppers (terrible) | -10 |
-| Fried Grasshoppers (terrible) | -10 |
-| Fried Grasshoppers (terrible) | -10 |
-| Fried Grasshoppers (terrible) | -10 |
-| Fried Grasshoppers (terrible) | -10 |
-| Fried Grasshoppers (terrible) | -10 |
+| Boiled Rice  | -10 |
+| Dim sum  | -10 |
+| Khanom krok  | -10 |
+| Khao tom  | -10 |
+| Jok  | -10 |
+| Tom luad moo  | -10 |
+| Dim sum  | -10 |
+| Roti canai | -10 |
 
 
 ## Lunch 
