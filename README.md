@@ -1,7 +1,6 @@
 # DotCom Cafe
 
-[Fruit](Menu.md#Fruit)
-
+Section1 | Section2 | [Fruit](Menu.md#Fruit) | [Snack](Menu.md#snack)
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
@@ -13,11 +12,12 @@
 | Gasohol E20              | 35       |
 | Gasohol E85              | 32       |
 
-ถ้าอยากรู้วิธีการทำเป็นตารางเพิ่มเติม เช่น `|:---` และ `---:|` คืออะไรแล้วใช้ยังไง สามารถดูข้อมูลเพิ่มเติมได้ที่ [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)   
 
 ## About Us
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Thanida Chaiwongnon | Fruit | @thanidacwn |
+| Napasakorn Boonkerd | Snack | [@Savetang19](https://github.com/Savetang19) |
+
 

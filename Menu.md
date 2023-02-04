@@ -29,6 +29,13 @@
 | Milk tea | 20.00 |
 | Chocolate | 25.00 |
 
+## Snack
+|Item|Price|
+|:---|---|
+|Lays: nori seaweed|30|
+|Oreo| 10|
+|Lays: ตะวัน| 20|
+
 
 ## Fruit
 
